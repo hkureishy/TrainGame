@@ -7,10 +7,12 @@ public class spawn : MonoBehaviour
 {
     [SerializeField] private float spawnrate;
     [SerializeField] private GameObject enemy;
+
     [SerializeField] private float nextSpawnTime = 0f;
     void Start()
     {
         InvokeRepeating("Spawn", 1f, spawnrate);
+
     }
 
     // Update is called once per frame
@@ -35,4 +37,5 @@ public class spawn : MonoBehaviour
 
         Instantiate(enemy, transform.position, Quaternion.identity);
     }
+
 }
