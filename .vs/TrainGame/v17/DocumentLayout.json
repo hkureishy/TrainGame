@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TrainGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FAA44-124E-E56E-788F-5DDD746F9ADC}|Assembly-CSharp.csproj|d:\\traingame\\assets\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FAA44-124E-E56E-788F-5DDD746F9ADC}|Assembly-CSharp.csproj|solutionrelative:assets\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FAA44-124E-E56E-788F-5DDD746F9ADC}|Assembly-CSharp.csproj|d:\\traingame\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FAA44-124E-E56E-788F-5DDD746F9ADC}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FAA44-124E-E56E-788F-5DDD746F9ADC}|Assembly-CSharp.csproj|d:\\traingame\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FAA44-124E-E56E-788F-5DDD746F9ADC}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spawn.cs",
+              "DocumentMoniker": "D:\\TrainGame\\Assets\\spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\spawn.cs",
+              "ToolTip": "D:\\TrainGame\\Assets\\spawn.cs",
+              "RelativeToolTip": "Assets\\spawn.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:54:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\TrainGame\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "D:\\TrainGame\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:53:58.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\TrainGame\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "D:\\TrainGame\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:53:25.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
